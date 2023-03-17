@@ -51,6 +51,7 @@ attached.
 ## URL of Github Repository
 Repo URL: https://najiba-haidari.github.io/note-taker/ 
 Github URL: https://github.com/Najiba-Haidari/note-taker 
+Heroku URL: https://young-wildwood-70886.herokuapp.com/ 
 
 ## Credits
 
