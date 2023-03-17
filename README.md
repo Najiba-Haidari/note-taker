@@ -49,7 +49,8 @@ attached.
 "Note Taker")
 
 ## URL of Github Repository
-https://najiba-haidari.github.io/note-taker/ 
+Repo URL: https://najiba-haidari.github.io/note-taker/ 
+Github URL: https://github.com/Najiba-Haidari/note-taker 
 
 ## Credits
 
